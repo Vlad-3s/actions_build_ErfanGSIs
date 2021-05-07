@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/21.4.21/miui_LAURUS_21.4.21_25f88a5ec1_10.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://dwz.mk/fueAfe
+  ROM_NAME: Flyme
   TZ: Asia/Shanghai
 
 
