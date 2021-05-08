@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://dwz.mk/fueAfe
-  ROM_NAME: Flyme
+  ROM_URL: https://dwz.mk/i6rI7j
+  ROM_NAME: OriginOS
   TZ: Asia/Shanghai
 
 
