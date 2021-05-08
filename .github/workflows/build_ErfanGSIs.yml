@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: https://dwz.mk/i6rI7j
-  ROM_NAME: OriginOs
+  ROM_NAME: OriginOS
   TZ: Asia/Shanghai
 
 
